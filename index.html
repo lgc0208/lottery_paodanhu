@@ -92,7 +92,20 @@
           var hasLuckyData = getStore("LUCKYDATA");
           if (hasLuckyData) {
             for (var j = 0; j < hasLuckyData.length; j++) {
-              $("#lucky-balls-2").append(
+              var luckyBallSelector = "";
+            switch (hasLuckyData[j].prize) {
+                case "first":
+                    luckyBallSelector = "#lucky-balls";
+                    break;
+                case "second":
+                    luckyBallSelector = "#lucky-balls-2";
+                    break;
+                case "third":
+                    luckyBallSelector = "#lucky-balls-3";
+                    break;
+            }
+
+              $(luckyBallSelector).append(
                 '<li class="selected"><p class="company">' +
                   hasLuckyData[j].company +
                   '</p><p class="name">' +
