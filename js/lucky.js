@@ -25,8 +25,8 @@ define(function (require, exports, module) {
 
   var RIGIDITY = 4; // 弹性系数：2 -钢球 4 - 橡胶球，越大越软，建议小于 10
 
-  var thirdPrizeNum = 3; //  三等奖中奖人数
-  var secondPrizeNum = 2;
+  var thirdPrizeNum = 8; //  三等奖中奖人数
+  var secondPrizeNum = 5;
   var firstPrizeNum = 1;
   var currentLuckyNum = 0;
 
