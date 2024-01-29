@@ -8,9 +8,10 @@ ul li {
 }
 
 #container {
-  width: 900px;
-  margin: 10px auto;
-  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0% 20%;
+  position: fixed;
 }
 
 #balls {
@@ -22,10 +23,10 @@ ul li {
 
 #topRightImage {
   position: fixed; /* 固定定位 */
-  top: 10px;       /* 距离顶部10像素 */
-  right: 10px;     /* 距离右侧10像素 */
+  top: 1%;       /* 距离顶部10像素 */
+  right: 0%;     /* 距离右侧10像素 */
   z-index: 200;    /* 确保图片显示在最上层 */
-  width: 250px; /* 或者您期望的宽度 */
+  width: 15%; /* 或者您期望的宽度 */
   height: auto; /* 自动调整高度以保持图片比例 */
 }
 
@@ -59,8 +60,8 @@ ul li {
 #lucky-balls-3 li .company {
   font-size: 12px;
   line-height: 14px;
-  margin-bottom: 0;
-  margin-top: 1.2em;
+  /* margin-bottom: 0; */
+  /* margin-top: 1.2em; */
 }
 
 #balls li .name,
@@ -170,17 +171,17 @@ nav a {
 }
 
 .lottery-btn {
-  width: 100px;
-  height: 60px;
+  width: 20%;
+  height: 5%;
   position: fixed;
   right: 10%;
   top: 50%;
-  margin-top: -30px;
+  /* margin-top: -30px; */
   border: 1px solid #000;
-  border-radius: 5px;
+  border-radius: 1%;
   text-align: center;
-  font-size: 20px;
-  line-height: 60px;
+  /* font-size: 20px; */
+  /* line-height: 60px; */
 }
 
 .lottery-btn:hover {
@@ -194,7 +195,7 @@ nav a {
   position: absolute;
   height: 200px;
   width: 200px;
-  /*line-height: 200px;*/
+  /* line-height: 200px; */
   z-index: 99;
   top: 150px;
   text-align: center;
@@ -373,17 +374,17 @@ nav a {
 
 .lottery-guide .guide-text {
   position: absolute;
-  width: 600px;
-  height: 500px;
-  font-size: 80px;
-  font-weight: bold;
-  top: 25%;
-  left: 50%;
-  margin-left: -300px;
-  margin-top: -250px;
+  width: 25%;
+  height: 50%;
+  /* font-size: 20%;
+  font-weight: bold; */
+  top: 0%;
+  left: 37%;
+  /* margin-left: -300px; */
+  /* margin-top: -250px; */
   text-align: center;
   font-family: "Microsoft YaHei Light";
-  letter-spacing: 10px;
+  /* letter-spacing: 10px; */
   background: url("../images/炮弹虎-体育彩色.png") no-repeat center bottom;
   background-size: 100%;
 }
@@ -419,7 +420,8 @@ nav a {
   color: #e21536;
   font-weight: bold;
   font-size: 30px;
-  padding: 10px 10px 10px 20px;
+  /* padding: 10px 10px 10px 20px; */
+  padding: 1% 1% 1% 1%;
 }
 
 @keyframes leftMove {
