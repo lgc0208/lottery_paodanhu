@@ -3,7 +3,7 @@ define(function (require, exports, module) {
   var $ = require("./jquery");
   require("./easing");
   var _util = require("./utils");
-  var _lucky_list = require("./data/data-lucky");
+  // var _lucky_list = require("./data/data-lucky");
   var _first_prize_data = require("./data/data-first");
   var _second_prize_data = require("./data/data-second");
   var _third_prize_data = require("./data/data-third");

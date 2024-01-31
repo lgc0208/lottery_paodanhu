@@ -30,16 +30,5 @@ define([
     {"id":"29","company":"屏东馆","name":"柯秀金"},
     {"id":"30","company":"屏东馆","name":"王鑫"},
     {"id":"31","company":"屏东馆","name":"曾一杰"},
-    {"id":"32","company":"嘉宾","name":"刘武"},
-    {"id":"33","company":"嘉宾","name":"陆翔"},
-    {"id":"34","company":"嘉宾","name":"詹俊丰"},
-    {"id":"35","company":"嘉宾","name":"周莺"},
-    {"id":"36","company":"嘉宾","name":"陈立"},
-    {"id":"37","company":"嘉宾","name":"谭工"},
-    {"id":"38","company":"嘉宾","name":"蔡燕妮"},
-    {"id":"39","company":"嘉宾","name":"胡金龙"},
-    {"id":"40","company":"嘉宾","name":"染小染"},
-    {"id":"41","company":"嘉宾","name":"七玥"},
-    {"id":"42","company":"嘉宾","name":"曹鹭颖"},
-    {"id":"43","company":"嘉宾","name":"黄碧艳"}
+    {"id":"32","company":"嘉宾","name":"陈立"}
 ])
