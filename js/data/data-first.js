@@ -7,7 +7,6 @@ define([
     {"id":"18","company":"侨雄馆","name":"孙启明"},
     {"id":"19","company":"鸿雁馆","name":"黄震"},
     {"id":"21","company":"马尾馆","name":"王代灿"},
-    {"id":"25","company":"交通馆","name":"张庭浩"},
     {"id":"26","company":"侨雄馆","name":"王烨珍"},
     {"id":"28","company":"侨雄馆","name":"关志铭"},
     {"id":"29","company":"屏东馆","name":"柯秀金"},
