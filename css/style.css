@@ -423,7 +423,7 @@ nav a {
   font-weight: bold;
   font-size: 30px;
   /* padding: 10px 10px 10px 20px; */
-  padding: 1% 1% 1% 1%;
+  padding: 2% 1% 1% 1%;
 }
 
 @keyframes leftMove {
