@@ -17,5 +17,4 @@ define([
     {"id":"29","company":"屏东馆","name":"柯秀金"},
     {"id":"30","company":"屏东馆","name":"王鑫"},
     {"id":"31","company":"屏东馆","name":"曾一杰"},
-    {"id":"32","company":"嘉宾","name":"陈立"},
 ])

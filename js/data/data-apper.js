@@ -30,5 +30,8 @@ define([
     {"id":"29","company":"屏东馆","name":"柯秀金"},
     {"id":"30","company":"屏东馆","name":"王鑫"},
     {"id":"31","company":"屏东馆","name":"曾一杰"},
-    {"id":"32","company":"嘉宾","name":"陈立"}
+    {"id":"32","company":"嘉宾","name":"陈立"},
+    {"id":"33","company":"嘉宾","name":"蔡燕妮"},
+    {"id":"34","company":"嘉宾","name":"陆翔"},
+    {"id":"35","company":"嘉宾","name":"吴锦彬"}
 ])
