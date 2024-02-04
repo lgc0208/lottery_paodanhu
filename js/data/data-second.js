@@ -12,7 +12,6 @@ define([
     {"id":"21","company":"马尾馆","name":"王代灿"},
     {"id":"23","company":"马尾馆","name":"郑永健"},
     {"id":"26","company":"侨雄馆","name":"王烨珍"},
-    {"id":"27","company":"侨雄馆","name":"陈文铨"},
     {"id":"28","company":"侨雄馆","name":"关志铭"},
     {"id":"29","company":"屏东馆","name":"柯秀金"},
     {"id":"30","company":"屏东馆","name":"王鑫"},
