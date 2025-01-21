@@ -54,7 +54,7 @@ ul li {
   cursor: pointer;
 }
 
-#balls li .company,
+/* #balls li .company,
 #lucky-balls li .company,
 #lucky-balls-2 li .company,
 #lucky-balls-3 li .company {
@@ -62,27 +62,28 @@ ul li {
   line-height: 14px;
   margin-bottom: 0;
   margin-top: 1.2em;
-}
+} */
 
 #balls li .name,
 #lucky-balls li .name,
 #lucky-balls-2 li .name,
 #lucky-balls-3 li .name {
-  font-size: 14px;
-  line-height: 14px;
+  font-size: 16px;
+  line-height: 28px;
   margin-top: 5px;
 }
 
-#balls li.selected .company {
+/* #balls li.selected .company {
   font-size: 30px;
   line-height: 35px;
   margin-bottom: 0;
   margin-top: 2em;
-}
+} */
 
 #balls li.selected .name {
   font-size: 40px;
-  line-height: 50px;
+  line-height: 110px;
+  /* margin-top: 10px; */
   margin-top: 10px;
 }
 
