@@ -5,7 +5,6 @@ define([
     {"id": "4", "company": "", "name": "吴浩轩"},
     {"id": "5", "company": "", "name": "张彦杰"},
     {"id": "6", "company": "", "name": "吴思彤"},
-    {"id": "9", "company": "", "name": "蔡少达"},
     {"id": "10", "company": "", "name": "范范"},
     {"id": "11", "company": "", "name": "柯秀金"},
     {"id": "13", "company": "", "name": "程俊"},
