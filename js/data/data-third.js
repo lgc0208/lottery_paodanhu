@@ -9,7 +9,6 @@ define([
     {"id": "11", "company": "", "name": "柯秀金"},
     {"id": "13", "company": "", "name": "程俊"},
     {"id": "14", "company": "", "name": "王代灿"},
-    {"id": "18", "company": "", "name": "高鸿烨"},
     {"id": "19", "company": "", "name": "黄键"},
     {"id": "20", "company": "", "name": "方江彬"},
     {"id": "21", "company": "", "name": "刘宇涵"},
